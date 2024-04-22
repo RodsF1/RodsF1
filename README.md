@@ -1,5 +1,7 @@
 First startup was www.fingenic.io, and now building http://buildbook.us/ 
+
 Interests are in spacial computing, indoor geofencing, AGI, segmentation, and platform development 
+
 Reach me: rodbahmanyari@gmail.com 
 
 <!---
