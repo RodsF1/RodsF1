@@ -1,4 +1,4 @@
-First startup was www.fingenic.io, and now http://buildbook.us/ 
+First startup was www.fingenic.io, and http://buildbook.us/ is my latest passion project
 
 Interests are in spacial computing, indoor geofencing, AGI, segmentation, and platform development 
 
