@@ -1,6 +1,8 @@
-"""First startup was www.fingenic.io, and http://buildbook.us/ is my latest passion project
+First project: www.fingenic.io
 
-#Interests --spacial computing, indoor geofencing, AGI, segmentation, and platform development 
+Latest project: http://buildbook.us/
+
+Interests --spacial computing, indoor geofencing, AGI, segmentation, healthcare automation, platform development 
 
 <!---
 RodsF1/RodsF1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
