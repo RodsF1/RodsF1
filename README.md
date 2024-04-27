@@ -1,4 +1,4 @@
-First project: www.fingenic.io
+First project: www.fingenic.io (Berkeley SkyDeck Batch-15)
 
 Latest project: http://buildbook.us/
 
